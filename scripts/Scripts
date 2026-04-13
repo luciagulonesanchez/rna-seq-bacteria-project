@@ -1,0 +1,5 @@
+##Ejemplo practico RNA-seq staphylococcus aureus
+scripts/qc.py
+scripts/align.py
+scripts/counts.py
+scripts/deseq2_simulation.py
