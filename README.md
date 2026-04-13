@@ -4,7 +4,7 @@ Analysis of bacterial RNA-seq data to study differential gene expression under a
 ## Description 
 This proyect aims to analyze RNA-seq data from *Staphylococcus aureus* by comparing samples with and without exposure to vancomycin. 
 The analysis focuses on identifying changes in gene expression when the bacteria are under the effect of the antibiotic. 
-
+More information about RNA-seq can be found here: [RNA-seq (Nature article)](https://www.nature.com/articles/nrg2484) 
 ## Objective 
 The main objective is to identify genes whose expression is altered in the presence of vancomycin, with particular interest in those involved in:
 
@@ -18,6 +18,10 @@ To achieve the proposed objectives, the following bioinformatics analyses will b
 - Identification of significantly upregulated and downregulated genes  
 - Visualization of results using volcano plots  
 - Visualization of expression patterns using heatmaps of significant genes
+
+![RNA-seq workflow](The-basic-workflow-of-RNA-Seq-analysis-The-human-data-sets-collected-quality-checked.png)
+Figure 1. Workflow of RNA-seq analysis. 
+
    
 ## Project structure
 The repository is organized into different folders to facilitate workflow and reproducibility:
