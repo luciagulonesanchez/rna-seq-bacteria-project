@@ -25,10 +25,11 @@ The repository is organized into different folders to facilitate workflow and re
 - **data/**: contains the data used in the study (raw and processed data)  
 - **scripts/**: includes scripts used for bioinformatics analysis  
 - **docs/**: additional project documentation
-- **notebooks/**: notebooks for interactive analysis and exploration
-- - **results/**: contains the results obtained from different analyses. This folder is organized into two subfolders: 'tables/', which includes tables with the main analysis results and 'figures/' which contains the visual representations of the results.
+- **notebooks/**: contains Jupyter Notebooks used for interactive data analysis, exploration, and visualization, including 'staphLog.ipynb'
+- **results/**: contains the results obtained from different analyses. This folder is organized into two subfolders: 'tables/', which includes tables with the main analysis results and 'figures/' which contains the visual representations of the results.
  
 ## Tools Used 
 The project was developed using the following tools for data analysis and version control:
-- Python: used for data processing, differential expression analysis, and visualization  
-- GitHub: used for version control and collaborative work
+- **Python**: used for data processing, differential expression analysis, and visualization  
+- **GitHub**: used for version control and collaborative work
+- **Jupyter Notebook**: used for interactivw analysis
