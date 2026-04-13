@@ -1,0 +1,14 @@
+name: rna-seq-bacteria
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - fastqc
+  - multiqc
+  - samtools
+  - r-base=4.2
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - r-ggplot2
