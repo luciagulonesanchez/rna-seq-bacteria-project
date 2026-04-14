@@ -19,7 +19,8 @@ To achieve the proposed objectives, the following bioinformatics analyses will b
 - Visualization of results using volcano plots  
 - Visualization of expression patterns using heatmaps of significant genes
 
-![RNA-seq workflow](The-basic-workflow-of-RNA-Seq-analysis-The-human-data-sets-collected-quality-checked.png)
+![RNA-seq workflow](https://github.com/user-attachments/assets/f550ce50-939f-41c6-a8b3-cab65f905303 "RNA-seq workflow")
+
 Figure 1. Workflow of RNA-seq analysis. 
 
    
