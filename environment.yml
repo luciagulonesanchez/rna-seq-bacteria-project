@@ -12,3 +12,7 @@ dependencies:
   - bioconductor-deseq2
   - bioconductor-edger
   - r-ggplot2
+    - hisat2
+  - bioconductor-tximport
+  - bioconductor-apeglm
+  - r-pheatmap
