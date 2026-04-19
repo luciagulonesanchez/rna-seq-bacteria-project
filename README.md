@@ -38,3 +38,11 @@ The project was developed using the following tools for data analysis and versio
 - **Python**: used for data processing, differential expression analysis, and visualization.
 - **GitHub**: used for version control and collaborative work.
 - **Jupyter Notebook**: used for interactive analysis.
+
+## Authors
+
+* **Lucía Gulone Sánchez** - [luciagulonesanchez](https://github.com/luciagulonesanchez)
+* **Julia Carolina Salazar Romero** - [dogchop](https://github.com/dogchop)
+* **Jennifer Luna Lucio** - [jenniferlunalucio](https://github.com/jenniferlunalucio)
+* **Nestor Fabian Quiñones Devia** - [nestorqd05](https://github.com/nestorqd05)
+* **Jesus Alberto Anzules Ruiz** - [yeshuaruiz1995-maker](https://github.com/yeshuaruiz1995-maker)
